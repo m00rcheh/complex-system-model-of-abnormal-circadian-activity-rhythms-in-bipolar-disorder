@@ -1,4 +1,4 @@
-# complex-system-model-of-bipolar-disorder
+# complex-system-model-of-abnormal_circadian_activity_rhythms-in_euthymic_bipolar-disorder
 
 The scripts in this repository are suplamentary to our paper "Toward a complex system
 understanding of bipolar disorder: A chaotic model of abnormal circadian activity rhythms in euthymic bipolar disorder" published in Australian & New Zealand Journal of Psychiatry. If this code is used please cite the paper:
