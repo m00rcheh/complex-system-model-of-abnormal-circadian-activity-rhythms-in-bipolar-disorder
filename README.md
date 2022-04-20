@@ -42,3 +42,5 @@ In order to run the scripts, Python 3.0, Numpy>=1.13.3, and matplotlib>=3.0.3 ha
 
 - DailyCycle.py returns three time-series corresponding to normal, depressive, and manic states. 
 
+![](https://github.com/m00rcheh/complex-system-model-of-bipolar-disorder/blob/main/TimeSeries.png)
+
