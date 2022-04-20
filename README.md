@@ -37,5 +37,8 @@ In order to run the scripts, Python 3.0, Numpy>=1.13.3, and matplotlib>=3.0.3 ha
 
 # Codes
 - Bifurcation.py returns two matrices and plots the bifurcation diagrams of the cognitive block of the model by varying the inhibitory (A), and excitatory (B) parameters. 
+
+![](https://github.com/m00rcheh/complex-system-model-of-bipolar-disorder/blob/main/BifurcationDiagram.png)
+
 - DailyCycle.py returns three time-series corresponding to normal, depressive, and manic states. 
 
