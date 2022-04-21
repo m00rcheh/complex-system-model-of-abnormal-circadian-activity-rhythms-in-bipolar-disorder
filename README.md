@@ -15,6 +15,8 @@ understanding of bipolar disorder: A chaotic model of abnormal circadian activit
 }
 
 # Model 
+![](https://github.com/m00rcheh/complex-system-model-of-abnormal-circadian-activity-rhythms-in-bipolar-disorder/blob/main/Fig1.png)
+
 Fig 1. depicts a schematic representation of the proposed complex system. Cortical cognitive processing and subcortical circadian pacemaker are building blocks of the system. The primary cognitive network illustrates the interaction between two excitatory and inhibitory pathways
 spatially spread over the frontal cortex and varying on a daily timescale. As a result of interactions among these neurons, various complex behaviors can emerge in the system’s long-term dynamics. To investigate the role of weighted excitatory and inhibitory units in the cognitive
 process, we chose to mathematically represent the activation functions of each neuronal population via a hyperbolic tangent functions. Multiplied by the coefficients, A and B, the role of each population can be strengthened or weakened. It is important to note that the positive sign for
